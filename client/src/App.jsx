@@ -79,7 +79,7 @@ const App = () => {
           }
         />
       </Routes>
-      <Footer /> {/* This will always be shown */}
+      <Footer />
     </div>
   );
 };
